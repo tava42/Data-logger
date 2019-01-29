@@ -1,3 +1,3 @@
 # Data-logger
 
-My first project
+My first program
